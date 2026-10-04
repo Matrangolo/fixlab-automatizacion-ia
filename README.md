@@ -7,7 +7,7 @@ Sistema de prueba para consultas de equipos comerciales: Gmail recibe una consul
 ## Archivos
 
 - `FixLab-workflow.json`: exportación importable de n8n, sin credenciales asociadas.
-- `FixLab-arquitectura.pdf`: diagrama, estructuras de datos, ejemplos JSON, costos, seguridad y pruebas.
+- `Entrega Final_ Matrangolo Valentin.pdf`: diagrama, estructuras de datos, ejemplos JSON, costos, seguridad y pruebas.
 - `evidencias/`: capturas de flujo, aprobación, error y panel sin datos personales.
 
 ## Enlaces
