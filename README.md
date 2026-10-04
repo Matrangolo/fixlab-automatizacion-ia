@@ -13,7 +13,6 @@ Sistema de prueba para consultas de equipos comerciales: Gmail recibe una consul
 ## Enlaces
 
 - **Base de datos / dashboard Airtable (vista de lectura):** https://airtable.com/appfI6i5iPrr7IwZd/shrvm8lKql6BjInc9
-- **Demostración de 3 minutos:** pendiente de grabación y enlace.
 
 ## Funcionamiento
 
